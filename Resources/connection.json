@@ -1,0 +1,6 @@
+{
+    "user": "cgt_etl",
+    "host": "prd-redshift-dwh-02.cd1uedsc1nms.us-east-1.redshift.amazonaws.com",
+    "port": "5439",
+    "db": "prd"
+}
